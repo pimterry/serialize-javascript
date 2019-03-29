@@ -1,3 +1,5 @@
+_This is a forked version of [serialize-javascript](https://www.npmjs.com/package/serialize-javascript). It's used by [HTTP Toolkit](https://httptoolkit.tech), and includes the Map/Set support from https://github.com/yahoo/serialize-javascript/pull/45._
+
 Serialize JavaScript
 ====================
 

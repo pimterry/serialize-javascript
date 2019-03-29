@@ -1,6 +1,6 @@
 {
-  "name": "serialize-javascript",
-  "version": "1.6.1",
+  "name": "@httptoolkit/serialize-javascript",
+  "version": "1.7.0-sets-and-maps",
   "description": "Serialize JavaScript to a superset of JSON that includes regular expressions and functions.",
   "main": "index.js",
   "scripts": {
